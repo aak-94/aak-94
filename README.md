@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Computer vision projects**
 
-- ⚡ Fun fact **I started coding with Excel and VBA but now i hardly use it.**
+- ⚡ Fun fact **I started coding with Excel and VBA but now i hardly use it now.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
